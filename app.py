@@ -61,6 +61,5 @@ def main ():
     exibir_opcoes()
     escolher_opcao()
 
-
 if __name__ == '__main__':
     main()
